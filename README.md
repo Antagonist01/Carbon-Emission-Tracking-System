@@ -25,14 +25,14 @@ A main.spec file is provided for building a standalone executable using PyInstal
 This project includes a PyInstaller specification file (main.spec) to build a standalone executable. To create an executable:
 
 
-.gitignore
+**.gitignore**
 The repository includes a .gitignore file to exclude unnecessary files such as log files, generated data, virtual environments, and build artifacts. This ensures a clean and focused repository.
 
-Contributing
+**Contributing**
 Contributions are welcome! If you would like to improve this project or fix bugs, please fork the repository and submit a pull request with your changes.
 
-License
+**License**
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 For questions, support, or further information, please contact or open an issue in the repository.
